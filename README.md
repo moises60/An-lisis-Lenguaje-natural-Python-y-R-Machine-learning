@@ -26,7 +26,7 @@ Este proyecto tiene como objetivo analizar reseñas de servicios de comida a dom
 
 1. **Clonar el Repositorio**
    ```bash
-   git clone https://github.com/moises60/Upper-Confidence-Bound-python.git
+   git clone https://github.com/moises60/Analisis-Lenguaje-natural-Python-y-R-Machine-learning.git
    ```
 ---
 

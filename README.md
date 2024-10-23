@@ -1,4 +1,4 @@
-# Análisis Lenguaje natural Python y R Machine learning 
+# Análisis de reseñas de una empresa de entrega de comida a domicilio utilizando procesamiento de lenguaje natural y machine learning con Python y R. 
 ![Logo del Proyecto](assets/logo.png)
 ## Tabla de Contenidos
 
